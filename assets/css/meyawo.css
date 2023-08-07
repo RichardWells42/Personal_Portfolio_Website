@@ -12063,7 +12063,7 @@ pre .code {
   -webkit-justify-content: center;
       -ms-flex-pack: center;
           justify-content: center;
-  /*background-image: url("../imgs/dc.jpg");*/
+  background-image: url("../imgs/dc.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -12077,7 +12077,7 @@ pre .code {
   height: 100%;
   /*background-image: -webkit-linear-gradient(bottom, #fff 0%, rgba(105, 90, 166, 0.35) 99%, rgba(105, 90, 166, 0.5) 100%);*/
  /*background-image: linear-gradient(to top, #fff 0%, rgba(105, 90, 166, 0.35) 99%, rgba(105, 90, 166, 0.5) 100%);*/
- background-image: url("../imgs/dc.jpg");
+ /*background-image: url("../imgs/dc.jpg");*/
 }
 
 .header .header-content {
