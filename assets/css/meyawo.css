@@ -12194,6 +12194,10 @@ pre .code {
   /*margin-left: 15px;*/
 }
 
+.about-text {
+  color: white;
+}
+
 .about-caption {
   -webkit-box-flex: 1;
   -webkit-flex-grow: 1;
