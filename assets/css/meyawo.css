@@ -1173,6 +1173,7 @@ pre code {
         -ms-flex: 0 0 33.33333%;
             flex: 0 0 33.33333%;
     max-width: 33.33333%;
+    margin-bottom: 10px; 
   }
   .col-md-5 {
     -webkit-box-flex: 0;
@@ -11639,7 +11640,7 @@ pre .code {
 }
 
 .custom-navbar .logo {
-  font-family: 'Times New Roman', Times, serif;
+  font-family: 'Times New Roman', Times, serif; 
   font-size: calc(20px + (30 - 20) * ((100vw - 300px) / (1300 - 300)));
   text-decoration: none;
   color: #fff;
