@@ -11271,7 +11271,7 @@ align-content: center;
   margin-top: ;
 }
 
-.fab, .far {
+/*.fab, .far {
   font-weight: 400;
 }
 
@@ -11291,7 +11291,7 @@ align-content: center;
 
 .fa-html5:before {
   content: "\f13b";
-}
+}*/
 
 
 /* Pricing card */
