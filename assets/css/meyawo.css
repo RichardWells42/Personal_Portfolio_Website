@@ -11256,7 +11256,7 @@ p {
 }
 
 /* skills */
-#skills {
+.skills-title {
 display: flex;
 justify-content: center;
 align-content: center;
