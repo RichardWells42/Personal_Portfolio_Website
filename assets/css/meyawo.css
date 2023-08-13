@@ -11294,14 +11294,16 @@ align-content: center;
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap; 
   }
 
   .skills-img {
     display: flex;
-    height: 2.5em;
+    height: 3em; 
     width: auto;
   }
 }
+
 /*.fab, .far {
   font-weight: 400;
 }
