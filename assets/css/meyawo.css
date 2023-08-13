@@ -11300,7 +11300,8 @@ align-content: center;
   .skills-img {
     display: flex;
     height: 3em; 
-    width: auto;
+    width: auto; 
+    margin-bottom: 20px;   
   }
 }
 
