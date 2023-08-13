@@ -12204,6 +12204,10 @@ pre .code {
   color: #212529;
 }
 
+.header-subtitle {
+  color: white;
+}
+
 .header-mini {
   min-height: 24rem;
   height: 24rem;
