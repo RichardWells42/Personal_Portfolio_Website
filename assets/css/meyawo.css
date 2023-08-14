@@ -11134,6 +11134,12 @@ p {
   border-radius: 100px;
 }
 
+/* service section */
+.row {
+  display: flex;
+  justify-content: center;
+}
+
 .service-card {
   position: relative;
   min-height: 230px;
