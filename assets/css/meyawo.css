@@ -11142,6 +11142,12 @@ p {
   border-radius: 3px;
 }
 
+/*.subtitle {
+  display: flex;
+  text-align: center;
+  margin-left: 30px;
+}*/
+
 .service-card .body {
   padding: 10px;
 }
