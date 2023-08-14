@@ -11284,6 +11284,17 @@ align-content: center;
   margin-top: ;
 }
 
+.skills-container2 {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  font-size: ;
+  width: 2em;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: ;
+}
+
 .skills-img {
   display: flex;
   justify-content: space-around;
