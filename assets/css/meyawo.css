@@ -11146,13 +11146,12 @@ p {
   border: 1px solid #dee2e6;
   overflow: hidden;
   border-radius: 3px;
+  background-color: darkgrey;
 }
 
-/*.subtitle {
-  display: flex;
-  text-align: center;
-  margin-left: 30px;
-}*/
+.subtitle {
+  color: white;
+}
 
 .service-card .body {
   padding: 10px;
